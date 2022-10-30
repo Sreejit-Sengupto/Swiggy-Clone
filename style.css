@@ -117,6 +117,29 @@ body{
 #delivery{
     margin-top: 30px;
 }
+.apst-gp{
+    margin: 175px 80px;
+}
+#restaurant{
+    font-size: 40px;
+    width: 323px;
+}
+#order-sentence{
+    margin-top: -25px;
+    margin-bottom: 50px;
+    font-size: 22px;
+    width: 426px;
+}
+.download-section{
+    display: flex;
+    justify-content: space-between;
+}
+.download-section-phone-image{
+    width: 460px;
+}
+.img-gp-ast{
+    width: 230px;
+}
 
 
 
