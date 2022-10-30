@@ -1,0 +1,125 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+.head{
+    display: flex;
+}
+.main-image{
+    background: url('images/main-image.png');
+    /* background-attachment: fixed; */
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 511px;
+}
+.login-area{
+    display: flex;
+    flex-direction: column;
+    margin: 30px 50px;
+    width: 50%;
+}
+.icon-line{
+    display: flex;
+    justify-content: space-between;
+    /* margin: 30px 50px; */
+}
+#icon{
+    width: 200px;
+}
+.login-signup{
+    margin: 38px 30px 38px 10px;
+    padding: 2px;
+}
+.login-signup-link{
+    padding: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+}
+#login{
+    padding: 20px;
+    color: black;
+}
+#login:hover{
+    color: #fc8019;
+}
+#sign-up{
+    background-color: black;
+    color: white;
+    padding: 10px 25px;
+}
+.heading-text{
+    font-size: 45px;
+}
+.para-text{
+    font-size: 25px;
+    margin-top: -30px;
+}
+.input{
+    display: flex;
+    margin-top: 20px;
+}
+#delivery-location{
+    width: 500px;
+    height: 50px;
+    font-weight: bold;
+    font-size: 16px;
+    border: 1px solid  #bdbdbd;
+    font-family: 'Roboto', sans-serif;
+    padding: 0px 30px;
+}
+#submit-btn{
+    width: 130px;
+    color: white;
+    font-weight: bold;
+    background-color: #fc8019;
+    font-size: 16px;
+    border: none;
+    font-family: 'Roboto', sans-serif;
+}
+.popular-cities{
+    font-size: 15px;
+    color: #787878;
+    margin-top: 40px;
+}
+.cities-name{
+    font-size: 15px;
+    color: #787878;
+    margin-top: 0px;
+    width: 515px;
+}
+
+.features{
+    display: flex;
+    justify-content: space-evenly;
+    /* align-items: center; */
+    padding: 20px;
+    height: 300px;
+    background-color: #2b1e16;
+    color: white;
+}
+.feature-image{
+    width: 100px;
+}
+.feature-description{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 105px;
+}
+.feature-para{
+    width: 274px;
+    margin-top: 0px;
+}
+#delivery{
+    margin-top: 30px;
+}
+
+
+
+.border{
+    border: 2px solid red;
+}
