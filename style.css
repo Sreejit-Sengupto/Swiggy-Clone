@@ -141,7 +141,7 @@ body{
     justify-content: space-between;
 }
 .download-section-phone-image{
-    width: 460px;
+    width: 440px;
 }
 .img-gp-ast{
     width: 230px;
@@ -219,7 +219,7 @@ body{
     display: none;
  }
  .download-section-phone-image{
-    width:439px;
+    width:300px;
     margin: 0;
  }
 }
